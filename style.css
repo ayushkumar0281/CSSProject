@@ -1,0 +1,51 @@
+.header {
+    color: #66bfbf;
+    background-color: #e4f9f5;
+}
+.h2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+}
+.h1 {
+    font-family: "Sacramento", cursive;
+    font-size: 5.625rem;
+    font-weight: bold;
+}
+.pp {
+    border-radius: 50%;
+    scale: 2;
+}
+.beach {
+    height: 300px;
+}
+.hello > h1 {
+    color: #66bfbf;
+    font-weight: normal;
+}
+.chilli {
+    height: 150px;
+    width: 150px;
+}
+.cat {
+    height: 200px;
+    width: 200px;
+}
+.headp {
+    color: #66bfbf;
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+.bol {
+    font-size: 1.25rem;
+    color: #11999e;
+    font-weight: bold;
+}
+.foot {
+    background-color: #66bfbf;
+}
+.ayush {
+    color: white;
+}
+.aa{
+    color: #11999e;
+}
